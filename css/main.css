@@ -1,0 +1,78 @@
+body{
+background-color: #ccc;
+font-family: arial;
+color: #222;
+}
+
+
+.content{
+
+width: 500px;
+min-height: 500px;
+background-color: #c9b74f;
+margin: 56px auto 0 auto;
+padding: 20px;
+position: relative;
+
+}
+.content h1{
+padding: 0px 0 0 0 ;
+margin: 0px;
+}
+.content p{
+padding: 0px;
+margin: 0px;
+}
+h1{
+  background-color: #555755;
+  color:#fff;
+  padding: 25px;
+  text-align: center;
+
+}
+.content .Nicole{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+background-color: #064a18;
+position: absolute;
+top: -50px;
+right: -100px;
+float:right;
+}
+.content .Lorna{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+background-color: #a1123d;
+position: absolute;
+top: -50px;
+left: -100px;
+float: right;
+}
+.content .random{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+background-color:#7f12a1;
+position: absolute;
+bottom: -50px;
+right: -100px;
+float: right;
+}
+.content .Kathomi{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+background-color:#48588c;
+position: absolute;
+bottom: -50px;
+left: -100px;
+float: right;
+}
+
+
+
+
+
+
